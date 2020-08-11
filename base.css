@@ -15,7 +15,7 @@
   --user-popout-message: #15171c;
   --settings-box: var(--message-box);
   --settings-box-hover: #16191d;
-  --settings-box-footer: #171a1f;
+  --settings-box-footer: #2f343d;
   --settings-input: #131519;
   --settings-paginator: rgba(0, 0, 0, 0.2);
   --settings-separator: rgba(255, 255, 255, 0.05);
@@ -24,7 +24,7 @@
   --dropdown-item-hover: #22262d;
   --message-box: #1b1e23;
   --message-box-divider: #20242a;
-  --message-embed: #171a1f;
+  --message-embed: #2f343d;
   --message-button: #2d323c;
   --server-background: #1e2127;
   --server-hovered: #20242a;
