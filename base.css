@@ -1549,6 +1549,10 @@ html.theme-light .wrapper-2ZbzR9 .slide-2pHaq5 .footer-3rDWdC {
 #app-mount .form-2fGMdU:before {
   content: none;
 }
+#app-mount .form-2fGMdU {
+  padding-left: 0px;
+  padding-right: 0px;
+}
 #app-mount .inner-MADQqc {
   max-height: 144px;
 }
