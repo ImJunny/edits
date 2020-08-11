@@ -1733,6 +1733,8 @@ html.theme-light .wrapper-2ZbzR9 .slide-2pHaq5 .footer-3rDWdC {
 #app-mount .unread-3zKkbm {
   background-color: rgba(var(--accent), 1);
   z-index: 1;
+  width: 4px;
+  height: 4px;
 }
 #app-mount .wrapper-1ucjTd .content-3at_AU {
   margin-left: 0;
