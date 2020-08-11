@@ -26,7 +26,7 @@
   --message-box-divider: #20242a;
   --message-embed: #171a1f;
   --message-button: #2d323c;
-  --server-background: #1e2127;
+  --server-background: #ffffff;
   --server-hovered: #20242a;
   --server-selected: #22262d;
   --server-folders: var(--server-background);
