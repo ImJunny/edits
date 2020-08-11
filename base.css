@@ -1547,8 +1547,7 @@ html.theme-light .wrapper-2ZbzR9 .slide-2pHaq5 .footer-3rDWdC {
   background: transparent;
 }
 #app-mount .form-2fGMdU:before {
-  padding-left: 0px;
-  padding-right:  0px;
+  content: none;
 }
 #app-mount .inner-MADQqc {
   max-height: 144px;
